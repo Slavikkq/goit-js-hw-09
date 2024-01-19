@@ -1,4 +1,4 @@
-import SimpleLightbox from '.simple-lightbox.js';
+import SimpleLightbox from './simple-lightbox.js';
 const gallery = [
     {
       preview:
