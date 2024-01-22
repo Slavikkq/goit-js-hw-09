@@ -9,5 +9,5 @@ import"./assets/modulepreload-polyfill-ec808ebb.js";/* empty css                
         />
       </a>
     </li>
-  `).join("");a.innerHTML=t;new p(".gallery a",{captionsDelay:250,captionsData:`${item.description} `});
+  `).join("");a.innerHTML=t;new p(".gallery a",{captionsDelay:250});
 //# sourceMappingURL=commonHelpers.js.map
